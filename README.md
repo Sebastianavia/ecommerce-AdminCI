@@ -9,6 +9,7 @@ InnovaRetail Corp. está lanzando una avanzada plataforma de comercio electróni
 
 ### Integración Continua (CI) con GitHub Actions
 
+
 Para garantizar que el proceso de desarrollo sea eficiente y confiable, implementaremos un pipeline de Integración Continua (CI) utilizando GitHub Actions. Este pipeline automatizará los procesos de prueba e integración, permitiendo la entrega rápida y confiable de nuevas funcionalidades y actualizaciones.
 
 
