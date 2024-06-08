@@ -13,6 +13,7 @@ InnovaRetail Corp. está lanzando una avanzada plataforma de comercio electróni
 Para garantizar que el proceso de desarrollo sea eficiente y confiable, implementaremos un pipeline de Integración Continua (CI) utilizando GitHub Actions. Este pipeline automatizará los procesos de prueba e integración, permitiendo la entrega rápida y confiable de nuevas funcionalidades y actualizaciones.
 
 
+
 ### Detalles del Pipeline de CI
 
 - Pruebas Automatizadas: Cada commit desencadenará una serie de pruebas automatizadas para asegurar la calidad y funcionalidad del código.
